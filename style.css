@@ -1,0 +1,27 @@
+.heading
+{
+    font-size: 30px;
+    width: 100%;
+    margin: 10px;
+    color:green;
+}
+.note
+{
+    font-size: 20px;
+    color:navy;
+}
+.div_name
+{
+    float: left;
+    margin-left: 50px;
+}
+body
+{
+    background-size:cover;
+    font-family: fantasy;
+}
+canvas
+{
+    border: goldenrod;
+}
+
